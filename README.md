@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Khushi
 
-<!--
-**khushi-webdev-stack/khushi-webdev-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Learning Web Development  
+🌱 Currently learning HTML, CSS, JavaScript  
+🚀 Goal: Become a Full Stack Developer  
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Basic Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Rock Paper Scissor
+- typing-master
+- Tic Tac Toc
+- Bank management
+- ATS-Analyzer
